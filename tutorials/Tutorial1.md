@@ -75,7 +75,7 @@
 
 ## Part 2 - Shapes & Colours
 
-1.	Use the blank graph [here](../notes/grid.docx) to draw the primitive shapes specified by the code:
+<!-- 1.	Use the blank graph [here](../notes/grid.docx) to draw the primitive shapes specified by the code:
 
 	```java
 	line(0, 0, 19, 6);
@@ -85,17 +85,17 @@
 	ellipse(15, 15, 4, 4); 
 
 	```
-
-2.	Given the shapes shown below provide the shape drawing instructions for it.
+ -->
+1.	Given the shapes shown below provide the shape drawing instructions for it.
 
 	![alt text](../images/tutorial1_gridshapes.png "")
 
 
-3.	Give the instructions to draw the following output
+1.	Give the instructions to draw the following output
 
 	![alt text](../images/tutorial1_squares.png "")
 
-4.	Provide the missing RGB values for the colours needed in the code [tut01_03_rgb](../code/tutorials/tut01_03_rgb/tut01_03_rgb.zip):
+1.	Provide the missing RGB values for the colours needed in the code [tut01_03_rgb](../code/tutorials/tut01_03_rgb/tut01_03_rgb.zip):
 
 	![alt text](../images/tutorial1_gridshapesRGB.png "RGB colours")
 
@@ -119,7 +119,7 @@
 	You can use a this [Colour Picker](http://www.w3schools.com/colors/colors_picker.asp "Colour Picker") 
 
 
-5.	Design your own *simple* creature using simple shapes and colors. 
+1.	Design your own *simple* creature using simple shapes and colors. 
 	Draw the creature by hand using only points, lines, rectangles, and ellipses. 
 	Then using the template program [tut01_creature](../code/tutorials/tut01_creature/tut01_creature.zip) write the code for the creature using commands like - ```point()```, 
 	```line()```, ```rect( )```, ```ellipse()```, ```stroke()``` , and ```fill()```. 
